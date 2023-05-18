@@ -1,5 +1,5 @@
 const {MongoClient} = require('mongodb');
-let uri='mongodb+srv://Pushkaran:alWZ6qfl2z177xb5@cluster0.3zx7yev.mongodb.net/?retryWrites=true&w=majority'
+let uri=''//enter ur URL here
 
 let dbConnection
 
